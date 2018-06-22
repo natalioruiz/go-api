@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/natalioruiz/go-api)](https://goreportcard.com/report/github.com/natalioruiz/go-api)
 # Go-Api
 
 Simple REST API written in Golang using MongoDB.
